@@ -3,4 +3,5 @@ Ainda terá o acrescento de outras linguagens mais adiante, porém de inicio só
 # estudando o basico ate o avançando e passando por frameworks de python e do ruby
 
 Hello World
+("\n")
 Operadores lógicos
