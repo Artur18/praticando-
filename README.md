@@ -4,6 +4,6 @@ Ainda terá o acrescento de outras linguagens mais adiante, porém de inicio só
 
 Hello World
 
-Operadores lógicos
+Operadores Matematicos 
 
 Operadores de Atribuição 
